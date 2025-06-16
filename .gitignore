@@ -10,15 +10,18 @@ MemoryCaptures/
 .idea/
 .vscode/
 *.csproj
+*.unityproj
 *.sln
-*.user
-*.unitypackage
-*.apk
-*.aab
+*.suo
 *.tmp
+*.user
+*.userprefs
 *.pidb
 *.booproj
 *.stacktrace
 *.merge
+*.apk
+*.aab
+*.unitypackage
 .collabignore
 
